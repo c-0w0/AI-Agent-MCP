@@ -1,5 +1,5 @@
 ## Introduction
-This project explores the boundaries and functionalities of Model Context Protocol.
+This project explores the boundaries and functionalities of Model Context Protocol, and it's my first contact to MCP, nothing fancy here.
 
 ## Characters
 | Body    | Actor |

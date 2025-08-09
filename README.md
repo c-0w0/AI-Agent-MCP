@@ -5,7 +5,7 @@ This project explores the boundaries and functionalities of Model Context Protoc
 | Body    | Actor |
 | :--------: | :-------: |
 | LLM | Gemini-2.5-pro    |
-| AI Agent (MCP Host) | Cline     |
+| AI Agent | Cline     |
 | MCP Server    | `my_MCP_server`, [Fetch](https://mcp.so/server/fetch/modelcontextprotocol)    |
 
 ## MCP Server Settings 

@@ -20,7 +20,7 @@ This project explores the boundaries and functionalities of Model Context Protoc
       "command": "uv",
       "args": [
         "--directory",
-        "C:/Users/chun/Desktop/Projects/uv_MCP/src/",
+        "C:/Users/chun/Desktop/Projects/uv_AI2Agent2MCPtools/src/",
         "run",
         "my_MCP_server.py"
       ]
